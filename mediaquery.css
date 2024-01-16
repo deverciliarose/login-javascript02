@@ -29,7 +29,7 @@
  @media  screen and (min-width: 480px) and(orientation:landscape){
     body{
         width: 200px;
-        height: 80vh;
+        height: 150vh;
         border: 1px solid blue;
         border-radius: 5%;
         display: block;

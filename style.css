@@ -9,9 +9,8 @@ body{
     
     
 }
-body{
-    width: 450px;
-    height: 70vh;
+div#login{
+    height: 60vh;
     border: 1px solid blue;
     border-radius: 5%;
     display: block;
@@ -23,8 +22,8 @@ body{
 }
 form,h1{
     width: 100%;
-    height: 150px;
-    line-height: 200px;
+    height: 100px;
+    line-height: 100px;
     color: #fff;
     text-align: center;
     

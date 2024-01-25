@@ -1,17 +1,21 @@
 @charset "UTF-8";
 
 
- @media (min-width:768px) {
+ @media (min-width:600px) {
     body{
         width: 350px;
         height: 350px;
         border: 1px solid blue;
         border-radius: 5%;
         margin-top: 90px;
+        background-size: cover;
+        
         
         
     
     }
+
+
     form,h1{
         width: 100%;
         margin-top: 60px;
